@@ -27,7 +27,7 @@ A four-part Power BI project analysing internet sales for a retail business, bui
 Power BI Desktop, Power Query (M), DAX, Excel
 
 ## Key Insights
-- [Add 2-3 findings with numbers, e.g. top country by sales, share of sales by gender]
+- [Add 2-3 findings with numbers, e.g., top country by sales, share of sales by gender]
 
 ## Screenshots
 ![Task Six dashboard](path/to/screenshot.png)
